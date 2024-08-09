@@ -1,0 +1,1 @@
+2*pi ^(-1)*arcsin((exp(sigma) + exp(eta) * x * y) * ((1 + exp(sigma) + exp(eta) * x^2) * (1 + exp(sigma) + exp(eta) * y ** 2))^(-1 / 2))
